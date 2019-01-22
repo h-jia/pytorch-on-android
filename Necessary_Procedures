@@ -1,1 +1,2 @@
-# Install cmake via "pkg install cmake" prior TermuxArc command
+# Install cmake via "pkg install cmake" prior TermuxArc command "startarch"
+# bash ./setuppytorch.sh via /home directory
